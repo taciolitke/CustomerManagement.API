@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.API\\CustomerManagement.Web.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.API\\CustomerManagement.Web.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.API\\CustomerManagement.Web.API.csproj",
+        "projectName": "CustomerManagement.Web.API",
+        "projectPath": "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.API\\CustomerManagement.Web.API.csproj",
+        "packagesPath": "C:\\Users\\tacio.litke.PROGRAMMERS\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tacio.litke.PROGRAMMERS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.Domain\\CustomerManagement.Web.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.Domain\\CustomerManagement.Web.Domain.csproj"
+              },
+              "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.Repository.DataBase\\CustomerManagement.Web.Repository.DataBase.csproj": {
+                "projectPath": "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.Repository.DataBase\\CustomerManagement.Web.Repository.DataBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.Domain\\CustomerManagement.Web.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.Domain\\CustomerManagement.Web.Domain.csproj",
+        "projectName": "CustomerManagement.Web.Domain",
+        "projectPath": "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.Domain\\CustomerManagement.Web.Domain.csproj",
+        "packagesPath": "C:\\Users\\tacio.litke.PROGRAMMERS\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tacio.litke.PROGRAMMERS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.Repository.DataBase\\CustomerManagement.Web.Repository.DataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.Repository.DataBase\\CustomerManagement.Web.Repository.DataBase.csproj",
+        "projectName": "CustomerManagement.Web.Repository.DataBase",
+        "projectPath": "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.Repository.DataBase\\CustomerManagement.Web.Repository.DataBase.csproj",
+        "packagesPath": "C:\\Users\\tacio.litke.PROGRAMMERS\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.Repository.DataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tacio.litke.PROGRAMMERS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.Domain\\CustomerManagement.Web.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\CustomerManagement\\CustomerManagement.API\\CustomerManagement.Web.Domain\\CustomerManagement.Web.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

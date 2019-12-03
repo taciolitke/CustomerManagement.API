@@ -1,0 +1,11 @@
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Repository.DataBase\bin\Debug\netcoreapp3.0\CustomerManagement.Web.Repository.DataBase.deps.json
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Repository.DataBase\bin\Debug\netcoreapp3.0\CustomerManagement.Web.Repository.DataBase.dll
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Repository.DataBase\bin\Debug\netcoreapp3.0\CustomerManagement.Web.Repository.DataBase.pdb
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Repository.DataBase\obj\Debug\netcoreapp3.0\CustomerManagement.Web.Repository.DataBase.csprojAssemblyReference.cache
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Repository.DataBase\obj\Debug\netcoreapp3.0\CustomerManagement.Web.Repository.DataBase.AssemblyInfoInputs.cache
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Repository.DataBase\obj\Debug\netcoreapp3.0\CustomerManagement.Web.Repository.DataBase.AssemblyInfo.cs
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Repository.DataBase\obj\Debug\netcoreapp3.0\CustomerManagement.Web.Repository.DataBase.dll
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Repository.DataBase\obj\Debug\netcoreapp3.0\CustomerManagement.Web.Repository.DataBase.pdb
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Repository.DataBase\bin\Debug\netcoreapp3.0\CustomerManagement.Web.Domain.dll
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Repository.DataBase\bin\Debug\netcoreapp3.0\CustomerManagement.Web.Domain.pdb
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Repository.DataBase\obj\Debug\netcoreapp3.0\CustomerManagement.Web.Repository.DataBase.csproj.CopyComplete

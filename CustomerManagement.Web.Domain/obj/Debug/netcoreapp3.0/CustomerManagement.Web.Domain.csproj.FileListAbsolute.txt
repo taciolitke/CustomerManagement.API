@@ -1,0 +1,8 @@
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Domain\bin\Debug\netcoreapp3.0\CustomerManagement.Web.Domain.deps.json
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Domain\bin\Debug\netcoreapp3.0\CustomerManagement.Web.Domain.dll
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Domain\bin\Debug\netcoreapp3.0\CustomerManagement.Web.Domain.pdb
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Domain\obj\Debug\netcoreapp3.0\CustomerManagement.Web.Domain.AssemblyInfoInputs.cache
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Domain\obj\Debug\netcoreapp3.0\CustomerManagement.Web.Domain.AssemblyInfo.cs
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Domain\obj\Debug\netcoreapp3.0\CustomerManagement.Web.Domain.dll
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Domain\obj\Debug\netcoreapp3.0\CustomerManagement.Web.Domain.pdb
+C:\Projetos\CustomerManagement\CustomerManagement.API\CustomerManagement.Web.Domain\obj\Debug\netcoreapp3.0\CustomerManagement.Web.Domain.csprojAssemblyReference.cache
